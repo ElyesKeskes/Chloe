@@ -28,18 +28,22 @@
 		},
 		{
 			"Name": "MetaHuman",
-			"Enabled": true,
+			"Enabled": false,
 			"SupportedTargetPlatforms": [
 				"Win64",
 				"Linux"
 			]
 		},
 		{
-			"Name": "MetaHumanRuntime",
+			"Name": "Water",
 			"Enabled": true
 		},
 		{
-			"Name": "Water",
+			"Name": "Bridge",
+			"Enabled": false
+		},
+		{
+			"Name": "RigLogic",
 			"Enabled": true
 		}
 	]
