@@ -33,20 +33,21 @@ Late at night, Chloe faces a difficult choice: sneak out with her adventurous be
 ---
 
 
-##🧩 Development Details
---
->Engine: Unreal Engine 5
->Language: Blueprint + C++
->Status: In Development
->Target Platform: Windows (PC)
+## 🧩 Development Details
 
-##🏆 Achievements System
---
->-⭐ Unlock endings: Kayla’s Reckless Night, Tragic Loss, or Friendship Prevails.
->-🏅 Discover hidden collectibles like Chloe’s journal and Kayla’s notes.
+- Engine: Unreal Engine 5
+- Language: Blueprint + C++
+- Status: In Development
+- Target Platform: Windows (PC)
+---
+## 🏆 Achievements System
 
+- ⭐ Unlock endings: Kayla’s Reckless Night, Tragic Loss, or Friendship Prevails.
+- 🏅 Discover hidden collectibles like Chloe’s journal and Kayla’s notes.
 
-📧 Contact
+---
+## 📧 Contact
+
 If you have any questions or would like to see the project footage, please don't hesitate to reach out via elyes.keskes@esprit.tn .
 
 ---
